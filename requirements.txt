@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12.3
+ics>=0.7.2
+pandas>=2.2.2
+python_dateutil>=2.9.0.post0
+Requests>=2.32.3
+lxml>=5.0.0
